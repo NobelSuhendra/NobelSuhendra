@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nobel</h1>
-<h2 align="center">An aspiring competitive programmer</h3>
+<h1 align="center">Hi, I'm Nobel👋</h1>
 
 - I'm a Y10 student at **NationalHigh Jakarta School**. I primarily focus on competitive programming, though occassionally I do web and app development, video editing, and graphic design. In my free time, you can find me practicing badminton or perhaps feeding on my card throwing obsession.
 
-<h3> 🔭 Projects </h3>
+<h2> 🔭 Projects </h2>
 - The project I'm currently working on is [School4All](linktr.ee/school4all), a non-profit organisation based in Jakarta, Indonesia with the goal of improving the education for the underpriviliged. 
 
 - My winning project for the Hwa Chong Institution Project Competition: [UpLift] (team-uplift.com), an organisation with the primary goal of raising awareness about mental health, through blogging and charity work.
@@ -14,7 +13,7 @@
 
 2. BioPoll, a business start-up which makes use of biometric technologies to improve the accuracy, convenience, and feasibility of online voting. (Top 100 YTBC)
 
-<h3> 🏫 School, Leadership & Achievements </h3>
+<h2> 🏫 School, Leadership & Achievements </h2>
 
 - Founding Member, Former Vice President, and Sitting President of NHCSC (NationalHigh Computer Science Club), a club dedicated to training students for computer science competitions, such as ACSL
 
@@ -26,7 +25,7 @@
 
 - Head of Community Service Project Committee of the International Junior Honour Society Student-led Council
 
-<h3> 📫 Contact </h3>
+<h2> 📫 Contact </h2>
 
 - Feel free to send me an email at **nobel@suhendra.com** or **nobelsuhendra@gmail.com**
 
