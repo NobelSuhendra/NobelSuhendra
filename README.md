@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nobel👋</h1>
 
-- I'm a Y10 student at **NationalHigh Jakarta School**. I primarily focus on competitive programming, though occassionally I do web and app development, video editing, and graphic design. In my free time, you can find me practicing badminton or perhaps feeding on my card throwing obsession.
+- I'm a Y10 student at **NationalHigh Jakarta School**. I primarily focus on competitive programming, though occassionally I do web and app development, video editing, and graphic design. In my free time, you can find me practicing badminton, feeding on my card throwing obsession or perhaps playing video games.
 
 <h2> 🔭 Projects </h2>
 
