@@ -30,7 +30,7 @@
 
 - Feel free to send me an email at **nobel@suhendra.com** or **nobelsuhendra@gmail.com**
 
-- Or drop me a message on my WhatsApp number **+6281398892338**
+- Or send me a message through my WhatsApp number **+6281398892338**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
