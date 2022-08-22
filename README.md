@@ -5,20 +5,31 @@
 
 <h4> 🔭 Projects </h4>
 - The project I'm currently working on is [School4All](linktr.ee/school4all), a non-profit organisation based in Jakarta, Indonesia with the goal of improving the education for the underpriviliged. 
+
 - My winning project for the Hwa Chong Institution Project Competition: [UpLift] (team-uplift.com), an organisation with the primary goal of raising awareness about mental health, through blogging and charity work.
+
 - My business projects: 
+
 1. [Khione] (instagram.com/khione.jkt), an ice-cream-selling charity organisation which donates profits earned from selling homemade, luxury ice cream to a better cause.
+
 2. BioPoll, a business start-up which makes use of biometric technologies to improve the accuracy, convenience, and feasibility of online voting. (Top 100 YTBC)
 
 <h4> School, Leadership & Achievements </h4>
+
 - Founding Member, Former Vice President, and Sitting President of NHCSC (NationalHigh Computer Science Club), a club dedicated to training students for computer science competitions, such as ACSL
+
 - Founding Member, Teacher of Mathsketeers (Math Club), a club with the goal of helping struggling students in preparation for the iGCSE examination
+
 - Best Overall Student for 7 consecutive years (Starting from AY 2014-2015)
+
 - Student Council Member, Committe Head
+
 - Head of Community Service Project Committee of the International Junior Honour Society Student-led Council
 
 <h4> 📫 Contact </h4>
+
 - Feel free to send me an email at **nobel@suhendra.com** or **nobelsuhendra@gmail.com**
+
 - Or drop me a message on my WhatsApp number **+6281398892338**
 
 <h3 align="left">Connect with me:</h3>
