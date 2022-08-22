@@ -32,6 +32,8 @@
 
 - Or send me a message through my WhatsApp number **+6281398892338**
 
+- Or perhaps you could add me on Discord (naw#9743)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nobelsu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nobelsu_" height="30" width="40" /></a>
