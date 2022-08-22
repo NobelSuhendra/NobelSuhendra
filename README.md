@@ -7,7 +7,7 @@
 
 - My winning project for the Hwa Chong Institution Project Competition: [UpLift](https://team-uplift.com), an organisation with the primary goal of raising awareness about mental health, through blogging and charity work.
 
-- My business projects: 
+- Some of my business projects: 
 
 1. [Khione](https://instagram.com/khione.jkt), an ice-cream-selling charity organisation which donates profits earned from selling homemade, luxury ice cream to a better cause.
 
