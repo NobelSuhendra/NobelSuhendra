@@ -3,7 +3,7 @@
 - I'm a Y10 student at **NationalHigh Jakarta School**. I primarily focus on competitive programming, though occassionally I do web and app development, video editing, and graphic design. In my free time, you can find me practicing badminton or perhaps feeding on my card throwing obsession.
 
 <h2> 🔭 Projects </h2>
-- The project I'm currently working on is [SchoolAll](https://linktree.com/school4all), a non-profit organisation based in Jakarta, Indonesia with the goal of improving the education for the underpriviliged. 
+- The project I'm currently working on is: [School4All](https://linktree.com/school4all), a non-profit organisation based in Jakarta, Indonesia with the goal of improving the education for the underpriviliged. 
 
 - My winning project for the Hwa Chong Institution Project Competition: [UpLift](https://team-uplift.com), an organisation with the primary goal of raising awareness about mental health, through blogging and charity work.
 
