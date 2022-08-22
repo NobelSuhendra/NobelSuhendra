@@ -3,13 +3,13 @@
 - I'm a Y10 student at **NationalHigh Jakarta School**. I primarily focus on competitive programming, though occassionally I do web and app development, video editing, and graphic design. In my free time, you can find me practicing badminton or perhaps feeding on my card throwing obsession.
 
 <h2> 🔭 Projects </h2>
-- The project I'm currently working on is [School4All](linktr.ee/school4all), a non-profit organisation based in Jakarta, Indonesia with the goal of improving the education for the underpriviliged. 
+- The project I'm currently working on is [School4All](https://linktr.ee/school4all), a non-profit organisation based in Jakarta, Indonesia with the goal of improving the education for the underpriviliged. 
 
-- My winning project for the Hwa Chong Institution Project Competition: [UpLift] (team-uplift.com), an organisation with the primary goal of raising awareness about mental health, through blogging and charity work.
+- My winning project for the Hwa Chong Institution Project Competition: [UpLift](https://team-uplift.com), an organisation with the primary goal of raising awareness about mental health, through blogging and charity work.
 
 - My business projects: 
 
-1. [Khione] (instagram.com/khione.jkt), an ice-cream-selling charity organisation which donates profits earned from selling homemade, luxury ice cream to a better cause.
+1. [Khione](https://instagram.com/khione.jkt), an ice-cream-selling charity organisation which donates profits earned from selling homemade, luxury ice cream to a better cause.
 
 2. BioPoll, a business start-up which makes use of biometric technologies to improve the accuracy, convenience, and feasibility of online voting. (Top 100 YTBC)
 
