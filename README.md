@@ -22,9 +22,9 @@
 
 - Best Overall Student for 7 consecutive years (Starting from AY 2014-2015)
 
-- Student Council Member, Committe Head
+- Vice Chair of Logistics and Finance, Vice Chair of Operations, and Committe Chair of the NationalHigh Student Council
 
-- Head of Community Service Project Committee of the International Junior Honour Society Student-led Council
+- Head of Community Support Projects Committee of the International Junior Honour Society Student-led Council
 
 <h2> 📫 Contact </h2>
 
