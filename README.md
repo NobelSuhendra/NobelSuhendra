@@ -2,7 +2,7 @@
 
 - I'm a Y10 student at **NationalHigh Jakarta School**. I primarily focus on competitive programming, though occassionally I do web and app development, video editing, and graphic design. In my free time, you can find me practicing badminton, feeding on my card throwing obsession or perhaps playing video games.
 
-<h2> 🔭 Projects </h2>
+# 🔭 Projects
 
 - The project I'm currently working on is: [School4All](https://linktr.ee/school4all), a non-profit organisation based in Jakarta, Indonesia with the goal of improving the education for the underpriviliged. 
 
@@ -14,7 +14,7 @@
 
 2. BioPoll, a business start-up which makes use of biometric technologies to improve the accuracy, convenience, and feasibility of online voting. (Top 100 YTBC)
 
-<h2> 🏫 School, Leadership & Achievements </h2>
+# 🏫 School, Leadership & Achievements 
 
 - Founding Member, Former Vice President, and Sitting President of NHCSC (NationalHigh Computer Science Club), a club dedicated to training students for computer science competitions, such as ACSL
 
@@ -26,13 +26,13 @@
 
 - Head of Community Support Projects Committee of the International Junior Honour Society Student-led Council
 
-<h2> 📫 Contact </h2>
+# 📫 Contact
 
 - Feel free to send me an email at **nobel@suhendra.com** or **nobelsuhendra@gmail.com**
 
 - Or perhaps you could add me on Discord (**naw#9743**)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nobelsu_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nobelsu_) 
 
 # 💻 Tech Stack:
