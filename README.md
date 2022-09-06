@@ -20,8 +20,6 @@
 
 - Founding Member, Teacher of Mathsketeers (Math Club), a club with the goal of helping struggling students in preparation for the iGCSE examination
 
-- Best Overall Student for 7 consecutive years (Starting from AY 2014-2015)
-
 - Vice Chair of Logistics and Finance, Vice Chair of Operations, and Committe Chair of the NationalHigh Student Council
 
 - Head of Community Support Projects Committee of the International Junior Honour Society Student-led Council
